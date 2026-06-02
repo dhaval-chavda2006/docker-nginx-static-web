@@ -17,7 +17,7 @@ The application uses a two-tier networking structure to keep the application iso
 
 ---
 
-## Live Hot-Reloading Capabilities
+## Live Reloading Capabilities
 
 Because the container uses a direct filesystem bind-mount rather than baking the code directly into a static image, you don't have to rebuild the container or run complex Docker scripts when making updates. 
 
